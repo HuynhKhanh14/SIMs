@@ -1,0 +1,6 @@
+{
+  "name": "StudentHub - Kotlin Jetpack Compose & Firestore Student Management",
+  "description": "Hệ thống quản lý thông tin sinh viên với Firebase Firestore, Kotlin & Jetpack Compose cho Android Studio kèm bộ mã nguồn hoàn chỉnh và trình giả lập tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
